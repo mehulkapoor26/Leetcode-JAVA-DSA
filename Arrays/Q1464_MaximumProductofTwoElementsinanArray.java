@@ -16,7 +16,7 @@ public class Q1464_MaximumProductofTwoElementsinanArray{
         }
         Solution solution  = new Solution();
         int result = solution.maxProduct(nums);
-        System.out.println("Array = " + result);
+        System.out.println(result);
         input.close();
     }
 }
