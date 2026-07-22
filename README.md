@@ -36,6 +36,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [1929-concatenation-of-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2706-buy-two-chocolates](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2706-buy-two-chocolates) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -71,6 +72,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 |  |
 | ------- |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [2706-buy-two-chocolates](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
@@ -85,4 +87,8 @@ All solutions in this repository are automatically committed upon acceptance on 
 |  |
 | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Greedy
+|  |
+| ------- |
+| [2706-buy-two-chocolates](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2706-buy-two-chocolates) |
 <!---LeetCode Topics End-->
