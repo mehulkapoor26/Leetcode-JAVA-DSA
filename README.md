@@ -45,6 +45,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0905-sort-array-by-parity](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -77,6 +78,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0867-transpose-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1672-richest-customer-wealth) |
 ## Dynamic Programming
 |  |
@@ -122,6 +124,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 ## Binary Search
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
