@@ -27,6 +27,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [1486-xor-operation-in-an-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -133,6 +134,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
