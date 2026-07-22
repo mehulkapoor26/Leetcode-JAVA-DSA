@@ -19,6 +19,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | ------- |
 | [0007-reverse-integer](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0509-fibonacci-number) |
@@ -55,6 +56,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1929-concatenation-of-array) |
@@ -128,6 +130,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0258-add-digits) |
 | [2427-number-of-common-factors](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
