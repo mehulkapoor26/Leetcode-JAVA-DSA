@@ -11,3 +11,11 @@ All solutions in this repository are automatically committed upon acceptance on 
 - Clean Java implementation
 - Problem description & tags
 - Runtime and memory usage statistics
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0007-reverse-integer) |
+<!---LeetCode Topics End-->
