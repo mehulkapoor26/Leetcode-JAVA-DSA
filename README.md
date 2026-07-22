@@ -28,6 +28,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [2469-convert-the-temperature](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
 | ------- |
@@ -116,4 +117,8 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0231-power-of-two](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0342-power-of-four) |
 | [1486-xor-operation-in-an-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1486-xor-operation-in-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
