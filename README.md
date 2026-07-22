@@ -33,6 +33,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [0867-transpose-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -85,6 +86,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [0905-sort-array-by-parity](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0905-sort-array-by-parity) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2706-buy-two-chocolates](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2706-buy-two-chocolates) |
@@ -131,6 +133,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [0771-jewels-and-stones](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0771-jewels-and-stones) |
 ## Enumeration
 |  |
