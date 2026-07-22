@@ -25,6 +25,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0509-fibonacci-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1486-xor-operation-in-an-array) |
+| [1688-count-of-matches-in-tournament](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2469-convert-the-temperature) |
@@ -58,6 +59,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | ------- |
 | [0258-add-digits](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0867-transpose-matrix) |
+| [1688-count-of-matches-in-tournament](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
