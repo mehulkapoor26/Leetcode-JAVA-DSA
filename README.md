@@ -22,6 +22,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2469-convert-the-temperature) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Array
 |  |
