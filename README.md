@@ -39,6 +39,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [1470-shuffle-the-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1929-concatenation-of-array) |
@@ -92,6 +93,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | ------- |
 | [0771-jewels-and-stones](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1108-defanging-an-ip-address) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
