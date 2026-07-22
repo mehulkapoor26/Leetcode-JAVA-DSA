@@ -28,6 +28,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1672-richest-customer-wealth](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1929-concatenation-of-array) |
@@ -58,4 +59,8 @@ All solutions in this repository are automatically committed upon acceptance on 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0509-fibonacci-number) |
+## Sorting
+|  |
+| ------- |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 <!---LeetCode Topics End-->
