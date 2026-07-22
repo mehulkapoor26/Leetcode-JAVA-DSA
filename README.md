@@ -2,7 +2,7 @@
 
 Repository tracking my Data Structures & Algorithms journey using Java.
 
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/mehulkapoor26)
+![LeetCode Stats](https://leetcard.jacoblin.cool/mehulkapoor26?theme=dark)
 
 ---
 
