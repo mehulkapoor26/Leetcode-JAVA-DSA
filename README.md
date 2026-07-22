@@ -18,4 +18,12 @@ All solutions in this repository are automatically committed upon acceptance on 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0007-reverse-integer) |
+## Array
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1929-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
