@@ -90,6 +90,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 ## String
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1108-defanging-an-ip-address) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -123,4 +124,8 @@ All solutions in this repository are automatically committed upon acceptance on 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Hash Table
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
