@@ -40,6 +40,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0414-third-maximum-number) |
@@ -143,6 +144,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0342-power-of-four) |
 | [1486-xor-operation-in-an-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1486-xor-operation-in-an-array) |
