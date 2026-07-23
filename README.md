@@ -40,6 +40,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0414-third-maximum-number) |
 | [0867-transpose-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0867-transpose-matrix) |
@@ -99,6 +100,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0905-sort-array-by-parity) |
@@ -136,6 +138,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0169-majority-element) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Bit Manipulation
 |  |
@@ -153,6 +156,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [0771-jewels-and-stones](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0771-jewels-and-stones) |
 ## Enumeration
@@ -163,4 +167,8 @@ All solutions in this repository are automatically committed upon acceptance on 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1051-height-checker) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
