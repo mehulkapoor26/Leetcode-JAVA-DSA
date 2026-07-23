@@ -66,6 +66,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3925-concatenate-array-with-reverse](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
 |  |
 | ------- |
@@ -75,6 +76,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [1920-build-array-from-permutation](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3925-concatenate-array-with-reverse](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
 |  |
 | ------- |
