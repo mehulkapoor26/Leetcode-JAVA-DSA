@@ -113,6 +113,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0771-jewels-and-stones) |
@@ -127,6 +128,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1768-merge-strings-alternately) |
