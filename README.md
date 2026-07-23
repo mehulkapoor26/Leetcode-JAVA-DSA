@@ -19,6 +19,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | ------- |
 | [0007-reverse-integer](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0326-power-of-three) |
@@ -122,6 +123,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0344-reverse-string) |
@@ -173,6 +175,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0242-valid-anagram) |
