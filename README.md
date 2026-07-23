@@ -59,6 +59,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [1929-concatenation-of-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2574-left-and-right-sum-differences](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2706-buy-two-chocolates) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -77,6 +78,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1480-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2574-left-and-right-sum-differences) |
 ## Matrix
 |  |
 | ------- |
