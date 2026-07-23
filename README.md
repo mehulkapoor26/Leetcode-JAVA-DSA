@@ -50,6 +50,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -109,6 +110,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0414-third-maximum-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1051-height-checker) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2706-buy-two-chocolates](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -182,4 +184,8 @@ All solutions in this repository are automatically committed upon acceptance on 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
