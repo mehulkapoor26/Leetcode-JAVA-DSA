@@ -43,6 +43,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0169-majority-element) |
@@ -74,6 +75,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1688-count-of-matches-in-tournament) |
@@ -89,6 +91,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
