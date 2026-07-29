@@ -46,6 +46,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0054-spiral-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0074-search-a-2d-matrix) |
+| [0118-pascals-triangle](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0217-contains-duplicate) |
@@ -104,6 +105,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1025-divisor-game) |
 ## Recursion
