@@ -58,6 +58,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0169-majority-element](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0766-toeplitz-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0877-stone-game) |
@@ -138,6 +139,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0217-contains-duplicate](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -209,6 +211,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0169-majority-element](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0771-jewels-and-stones) |
 | [2549-count-distinct-numbers-on-board](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2549-count-distinct-numbers-on-board) |
 ## Enumeration
