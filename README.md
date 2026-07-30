@@ -22,6 +22,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0013-roman-to-integer](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0509-fibonacci-number) |
@@ -219,9 +220,11 @@ All solutions in this repository are automatically committed upon acceptance on 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
