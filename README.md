@@ -36,6 +36,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [2469-convert-the-temperature](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -149,6 +150,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2942-find-words-containing-character) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3110-score-of-a-string) |
 ## Two Pointers
 |  |
@@ -170,6 +172,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 |  |
 | ------- |
 | [2706-buy-two-chocolates](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2706-buy-two-chocolates) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting
 |  |
 | ------- |
