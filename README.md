@@ -27,6 +27,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0342-power-of-four](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1025-divisor-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1227-airplane-seat-assignment-probability) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1486-xor-operation-in-an-array) |
@@ -111,6 +112,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0118-pascals-triangle](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1025-divisor-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1227-airplane-seat-assignment-probability) |
 ## Recursion
 |  |
 | ------- |
@@ -222,9 +224,14 @@ All solutions in this repository are automatically committed upon acceptance on 
 | ------- |
 | [0292-nim-game](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1025-divisor-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1227-airplane-seat-assignment-probability) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1025-divisor-game) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
