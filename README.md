@@ -37,6 +37,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [2413-smallest-even-multiple](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2469-convert-the-temperature) |
+| [2549-count-distinct-numbers-on-board](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2549-count-distinct-numbers-on-board) |
 | [2652-sum-multiples](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -73,6 +74,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [1929-concatenation-of-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2549-count-distinct-numbers-on-board](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2549-count-distinct-numbers-on-board) |
 | [2574-left-and-right-sum-differences](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2706-buy-two-chocolates) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -91,6 +93,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [1920-build-array-from-permutation](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2549-count-distinct-numbers-on-board](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2549-count-distinct-numbers-on-board) |
 | [3925-concatenate-array-with-reverse](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
 |  |
@@ -204,6 +207,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0217-contains-duplicate](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0771-jewels-and-stones) |
+| [2549-count-distinct-numbers-on-board](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2549-count-distinct-numbers-on-board) |
 ## Enumeration
 |  |
 | ------- |
