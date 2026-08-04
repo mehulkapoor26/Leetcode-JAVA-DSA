@@ -85,6 +85,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3731-find-missing-elements](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3731-find-missing-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
 |  |
@@ -147,6 +148,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2706-buy-two-chocolates](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3731-find-missing-elements](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -215,6 +217,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0442-find-all-duplicates-in-an-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0771-jewels-and-stones) |
 | [2549-count-distinct-numbers-on-board](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2549-count-distinct-numbers-on-board) |
+| [3731-find-missing-elements](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
 | ------- |
