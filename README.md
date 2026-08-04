@@ -23,6 +23,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0231-power-of-two](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0326-power-of-three) |
@@ -60,6 +61,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0136-single-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0766-toeplitz-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0766-toeplitz-matrix) |
@@ -146,6 +148,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0169-majority-element](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0905-sort-array-by-parity) |
@@ -189,6 +192,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0268-missing-number) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
@@ -206,6 +210,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | ------- |
 | [0136-single-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0342-power-of-four) |
 | [1486-xor-operation-in-an-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1486-xor-operation-in-an-array) |
 ## Number Theory
@@ -222,6 +227,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0169-majority-element](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
