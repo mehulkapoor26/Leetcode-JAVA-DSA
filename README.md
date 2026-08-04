@@ -33,6 +33,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [1227-airplane-seat-assignment-probability](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1227-airplane-seat-assignment-probability) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2235-add-two-integers) |
@@ -67,6 +68,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0905-sort-array-by-parity](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
