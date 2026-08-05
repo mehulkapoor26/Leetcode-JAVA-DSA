@@ -52,6 +52,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0054-spiral-matrix) |
@@ -224,6 +225,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0217-contains-duplicate) |
