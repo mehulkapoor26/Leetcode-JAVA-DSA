@@ -20,6 +20,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0007-reverse-integer](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0263-ugly-number) |
@@ -55,6 +56,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0001-two-sum](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0074-search-a-2d-matrix) |
@@ -117,6 +119,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0074-search-a-2d-matrix) |
