@@ -83,6 +83,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [1470-shuffle-the-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1550-three-consecutive-odds](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1550-three-consecutive-odds) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1732-find-the-highest-altitude) |
