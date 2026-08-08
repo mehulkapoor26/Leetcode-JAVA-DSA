@@ -71,6 +71,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0766-toeplitz-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
