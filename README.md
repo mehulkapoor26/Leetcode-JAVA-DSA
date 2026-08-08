@@ -46,6 +46,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [2652-sum-multiples](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3024-type-of-triangle](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3024-type-of-triangle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -99,6 +100,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [2798-number-of-employees-who-met-the-target](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2942-find-words-containing-character) |
+| [3024-type-of-triangle](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3024-type-of-triangle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3731-find-missing-elements](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3731-find-missing-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3925-concatenate-array-with-reverse) |
@@ -168,6 +170,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2706-buy-two-chocolates](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3024-type-of-triangle](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3024-type-of-triangle) |
 | [3731-find-missing-elements](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -296,4 +299,8 @@ All solutions in this repository are automatically committed upon acceptance on 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0020-valid-parentheses) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
