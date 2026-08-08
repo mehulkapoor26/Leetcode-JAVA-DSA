@@ -76,6 +76,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [1051-height-checker](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -161,6 +162,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0442-find-all-duplicates-in-an-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1051-height-checker) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2706-buy-two-chocolates](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2706-buy-two-chocolates) |
@@ -196,6 +198,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0151-reverse-words-in-a-string](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0905-sort-array-by-parity) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1768-merge-strings-alternately) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -204,6 +207,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0033-search-in-rotated-sorted-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0268-missing-number) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
@@ -242,6 +246,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0268-missing-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0771-jewels-and-stones) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2549-count-distinct-numbers-on-board](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2549-count-distinct-numbers-on-board) |
 | [3731-find-missing-elements](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3731-find-missing-elements) |
