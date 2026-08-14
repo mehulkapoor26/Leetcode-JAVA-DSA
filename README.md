@@ -188,6 +188,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [1108-defanging-an-ip-address](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1678-goal-parser-interpretation](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1678-goal-parser-interpretation) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1773-count-items-matching-a-rule) |
