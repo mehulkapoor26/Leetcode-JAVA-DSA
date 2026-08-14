@@ -182,6 +182,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0151-reverse-words-in-a-string](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0771-jewels-and-stones](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -201,6 +202,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0125-valid-palindrome](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0905-sort-array-by-parity](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1768-merge-strings-alternately) |
