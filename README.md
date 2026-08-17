@@ -59,6 +59,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0033-search-in-rotated-sorted-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0074-search-a-2d-matrix) |
@@ -139,6 +140,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0877-stone-game) |
@@ -270,6 +272,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
