@@ -106,6 +106,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3731-find-missing-elements](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3731-find-missing-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3925-concatenate-array-with-reverse) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Simulation
 |  |
 | ------- |
@@ -212,6 +213,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [1346-check-if-n-and-its-double-exist](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1768-merge-strings-alternately) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Binary Search
 |  |
 | ------- |
