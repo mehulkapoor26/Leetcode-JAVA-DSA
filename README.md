@@ -68,6 +68,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0169-majority-element](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0766-toeplitz-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0766-toeplitz-matrix) |
@@ -207,6 +208,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0905-sort-array-by-parity](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0905-sort-array-by-parity) |
