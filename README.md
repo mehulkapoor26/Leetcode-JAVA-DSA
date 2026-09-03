@@ -315,4 +315,8 @@ All solutions in this repository are automatically committed upon acceptance on 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3024-type-of-triangle) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
