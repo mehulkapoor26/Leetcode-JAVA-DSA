@@ -59,6 +59,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0033-search-in-rotated-sorted-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0059-spiral-matrix-ii) |
@@ -162,6 +163,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0242-valid-anagram) |
@@ -183,6 +185,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0006-zigzag-conversion](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0242-valid-anagram) |
@@ -255,6 +258,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | ------- |
 | [0001-two-sum](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0242-valid-anagram) |
