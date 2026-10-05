@@ -21,6 +21,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0009-palindrome-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0263-ugly-number) |
@@ -224,6 +225,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0268-missing-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -324,4 +326,8 @@ All solutions in this repository are automatically committed upon acceptance on 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0169-majority-element) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
