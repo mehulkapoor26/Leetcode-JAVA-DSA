@@ -186,6 +186,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0013-roman-to-integer](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0242-valid-anagram) |
