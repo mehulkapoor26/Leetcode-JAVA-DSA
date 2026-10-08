@@ -349,4 +349,8 @@ All solutions in this repository are automatically committed upon acceptance on 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0347-top-k-frequent-elements) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
