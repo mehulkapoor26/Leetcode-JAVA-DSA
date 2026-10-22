@@ -232,6 +232,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0069-sqrtx](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0278-first-bad-version) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -353,4 +354,8 @@ All solutions in this repository are automatically committed upon acceptance on 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0175-combine-two-tables) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
