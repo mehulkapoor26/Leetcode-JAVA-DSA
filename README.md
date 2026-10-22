@@ -30,6 +30,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0319-bulb-switcher](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1025-divisor-game) |
@@ -233,6 +234,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0074-search-a-2d-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0367-valid-perfect-square) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
