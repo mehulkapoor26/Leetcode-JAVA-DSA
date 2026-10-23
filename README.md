@@ -76,6 +76,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0347-top-k-frequent-elements](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0766-toeplitz-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0877-stone-game) |
@@ -235,6 +236,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0268-missing-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0367-valid-perfect-square) |
+| [0540-single-element-in-a-sorted-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
