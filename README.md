@@ -189,6 +189,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0020-valid-parentheses) |
@@ -272,6 +273,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0169-majority-element) |
@@ -364,4 +366,8 @@ All solutions in this repository are automatically committed upon acceptance on 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0278-first-bad-version) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
