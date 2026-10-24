@@ -200,6 +200,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0242-valid-anagram](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0443-string-compression) |
 | [0771-jewels-and-stones](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1108-defanging-an-ip-address) |
@@ -253,6 +254,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | ------- |
 | [0169-majority-element](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Bit Manipulation
 |  |
@@ -281,6 +283,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0242-valid-anagram](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -370,4 +373,8 @@ All solutions in this repository are automatically committed upon acceptance on 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
