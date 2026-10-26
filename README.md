@@ -58,6 +58,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | ------- |
 | [0001-two-sum](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0046-permutations) |
@@ -169,6 +170,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -222,6 +224,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0151-reverse-words-in-a-string) |
