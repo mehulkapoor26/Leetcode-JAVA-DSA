@@ -62,6 +62,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0016-3sum-closest](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0049-group-anagrams) |
@@ -151,6 +152,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0509-fibonacci-number) |
@@ -229,6 +231,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0015-3sum](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0283-move-zeroes) |
@@ -347,6 +350,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0042-trapping-rain-water) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -388,4 +392,8 @@ All solutions in this repository are automatically committed upon acceptance on 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
