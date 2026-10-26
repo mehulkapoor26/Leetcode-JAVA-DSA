@@ -57,6 +57,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0046-permutations) |
@@ -220,6 +221,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -249,6 +251,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0011-container-with-most-water) |
 | [2706-buy-two-chocolates](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting
