@@ -22,6 +22,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0013-roman-to-integer](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0263-ugly-number) |
@@ -75,6 +76,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 | [0118-pascals-triangle](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0268-missing-number) |
@@ -284,6 +286,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2427-number-of-common-factors) |
@@ -311,6 +314,7 @@ All solutions in this repository are automatically committed upon acceptance on 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/2427-number-of-common-factors) |
 ## Counting Sort
 |  |
@@ -400,4 +404,16 @@ All solutions in this repository are automatically committed upon acceptance on 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0042-trapping-rain-water) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mehulkapoor26/Leetcode-JAVA-DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
